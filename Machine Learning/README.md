@@ -1,4 +1,5 @@
 # 🤖 ML Projects 🤖
+#### What is knowledge? That's a philosophical question but let's teach it to machines \*robot noises\*
 
 ## Summary
 
