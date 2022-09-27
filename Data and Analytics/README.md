@@ -5,19 +5,21 @@
 ## Summary
 
 Hello! This is my folder containing 4 Udacity D&A projects, all with their own folders:
+
 - Analyze A/B Testing
-  - Implementing hypothesis and A/B testing to make a calculated estimate whether a new page provides 
+  - Implementing hypothesis, A/B testing and Logistic Regression models to make a calculated estimate whether a new page converts more users to pay for a product
 
 - Investigate a Dataset
-  - Choosing a specific dataset, out of multiple options, to wrangle and provide statistical 
+  - Choosing a specific dataset to provide insights into movie/genre profitability through multiple visualizations
 
 - US Bikeshare Data
-  - Analyzing intricacies of Decision Tree Regression models and overfitting/underfitting risks 
+  - Extracting multiple files while building custom functions with extensive for loops capabilities to make assessments on biking customer data
   
 - Wrangle and Analyze Data
-  - Analyzing intricacies of Decision Tree Regression models and overfitting/underfitting risks
+  - Gathering data via direct download from urls and web scraping to make tidy and quality cleaning for proper insights and vizs
 
 
-They showcase my meticulousness and coding skills to review, clean and assess multiple data sources while understanding the complexities of data types, functions and powerful libraries such as numpy, pandas and seaborn via Python
+They showcase my meticulousness and coding skills to review, clean and assess multiple data sources while understanding the complexities of data types and structures, functions and powerful libraries such as numpy, pandas and seaborn
+
 
 Thank you for checking my Github :)
