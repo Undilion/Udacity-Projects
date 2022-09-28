@@ -14,7 +14,7 @@ Hello! This is my folder containing 3 ML projects, provided and reviewed by Udac
   - Analyzing intricacies of Decision Tree Regression models and overfitting/underfitting risks
 
 
-They showcase my ability and curiosity in explaining prediction through multiple algorithm models in order to have a fun and thorough understanding of data science.
+They showcase my ability and curiosity in explaining prediction through multiple algorithm models in order to have a fun and thorough understanding of data science. All work was submitted through jupyter notebook ( e.g [filename].ipynb ) so please use that as reference while other files are secondary.
 
 
 Thank you for checking my Github :)
