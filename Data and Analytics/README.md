@@ -19,7 +19,7 @@ Hello! This is my folder containing 4 D&A projects, provided and reviewed by Uda
   - Gathering data via direct download from urls and web scraping to make tidy and quality cleaning for proper insights and vizs
 
 
-They showcase my meticulousness and coding skills to review, clean and assess multiple data sources while understanding the complexities of data types and structures, functions and powerful libraries such as numpy, pandas and seaborn
+They showcase my meticulousness and coding skills to review, clean and assess multiple data sources while understanding the complexities of data types and structures, functions and powerful libraries such as numpy, pandas and seaborn. All work was submitted through jupyter notebook ( e.g [filename].ipynb ) so please use that as reference while other files are secondary.
 
 
 Thank you for checking my Github :)
