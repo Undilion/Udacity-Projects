@@ -8,7 +8,7 @@ Hello! This is my folder containing 3 Udacity ML projects, all with their own fo
   - Analyzing customer spending habits through unsupervised learning to identify specific customer segments via clustering algorithms
 
 - Finding Donors for Charity
-  - Comparing and contrasting different supervised learning models to predict whether donors donate based on specific features
+  - Comparing and contrasting different supervised learning models to predict whether donors donate based on a target variable
 
 - Predicting Boston Prices
   - Analyzing intricacies of Decision Tree Regression models and overfitting/underfitting risks
