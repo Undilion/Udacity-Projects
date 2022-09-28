@@ -4,7 +4,7 @@
 
 ## Summary
 
-Hello! This is my folder containing 4 Udacity D&A projects, all with their own folders:
+Hello! This is my folder containing 4 D&A projects, provided and reviewed by Udacity, all with their own folders:
 
 - Analyze A/B Testing
   - Implementing hypothesis, A/B testing and Logistic Regression models to make a calculated estimate whether a new page converts more users to pay for a product
