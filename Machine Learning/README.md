@@ -3,7 +3,7 @@
 
 ## Summary
 
-Hello! This is my folder containing 3 Udacity ML projects, all with their own folders:
+Hello! This is my folder containing 3 ML projects, provided and reviewed by Udacity, all with their own folders:
 - Creating Customer Segments
   - Analyzing customer spending habits through unsupervised learning to identify specific customer segments via clustering algorithms
 
